@@ -16,3 +16,6 @@ Jupyter Notebook workflow for Bayesian empirical fragility modelling.
 2. Start Jupyter:
    `jupyter lab`
 3. Open the notebook and run all cells top-to-bottom.
+
+##Citation
+https://doi.org/10.5281/zenodo.18551506
