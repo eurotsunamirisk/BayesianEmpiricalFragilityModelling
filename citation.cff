@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+
+title: "Bayesian Empirical Fragility Modelling"
+
+message: "If you use this repository, please cite it as below."
+
+authors:
+  - family-names: "Ebrahimian"
+    given-names: "Hossein"
+  - family-names: "Wu"
+    given-names: "Jingren"
+  - family-names: "Jalayer"
+    given-names: "Fatemeh"
+
+date-released: 2025-01-01
+
+version: "1.0.0"
+
+doi: 10.5281/zenodo.18551506
+
+url: https://doi.org/10.5281/zenodo.18551506
+
+repository-code: https://github.com/eurotsunamirisk/BayesianEmpiricalFragilityModelling
+
+keywords:
+  - Bayesian modelling
+  - fragility curves
+  - seismic risk
+  - empirical fragility
+  - Jupyter Notebook
+
+license: "GPL-3.0-only"
+
+abstract: >
+  This repository contains a Jupyter Notebook and supporting Python code for
+  data-driven Bayesian empirical fragility modelling. The workflow implements
+  hierarchical generalized linear models and MCMC-based parameter estimation
+  to derive probabilistic fragility curves from observed damage data.
+
+type: software
