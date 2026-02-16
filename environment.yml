@@ -1,0 +1,25 @@
+name: bayesian-fragility
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+
+  # Core scientific stack
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+
+  # Bayesian modelling
+  - pymc
+  - arviz
+
+  # Notebooks
+  - jupyterlab
+  - ipykernel
+
+  # Utilities
+  - pip
+
+
