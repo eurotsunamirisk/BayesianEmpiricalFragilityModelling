@@ -21,8 +21,13 @@ The observed data include information on tsunami effects (e.g., tsunami height, 
    `jupyter lab`
 3. Open the notebook and run all cells top-to-bottom.
 
+## License
+GPL-3.0-only
+
 ## Citation
+If you use this workflow in academic work, please cite the repository/software using `CITATION.cff`.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18551506.svg)](https://doi.org/10.5281/zenodo.18551506)
+
 
 
 
