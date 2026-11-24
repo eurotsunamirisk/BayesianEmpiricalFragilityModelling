@@ -22,7 +22,13 @@ The observed data include information on tsunami effects (e.g., tsunami height, 
 3. Open the notebook and run all cells top-to-bottom.
 
 ## License
-GPL-3.0-only
+
+This repository is licensed under the Creative Commons
+Attribution 4.0 International (CC BY 4.0) License.
+
+See [LICENSE](LICENSE) for the full license text.
+
+SPDX-License-Identifier: CC-BY-4.0
 
 ## Citation
 If you use this workflow in academic work, please cite the repository/software using `CITATION.cff`.
